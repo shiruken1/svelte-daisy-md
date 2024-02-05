@@ -23,6 +23,7 @@
       <div class="dropdown lg:hidden">
         <div tabindex="0" role="button" class="">
           <BarsSolid />
+          <svg class="h-1 w-1" />
         </div>
         <ul tabindex="0" class="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52">
           <Menu />
